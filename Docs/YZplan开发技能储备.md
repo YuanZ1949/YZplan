@@ -1,4 +1,13 @@
 
+# 环境准备
+
+## 使用SSH链接到Github
+
+参考文章：[使用 SSH 连接到 GitHub](https://docs.github.com/cn/authentication/connecting-to-github-with-ssh)
+
+> ssh-keygen -t ed25519 -C "your_email@example.com"
+
+
 
 # 代码实现
 
